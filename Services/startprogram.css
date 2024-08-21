@@ -52,6 +52,10 @@ button:not(:disabled) {
     cursor: pointer;
     background-color: #0071D1;
 }
+.dropdown-menu.show {
+    display: block;
+    background-color: #0071D1;
+}
 .img-2 {
     color: white;
     margin: 0 15px;
